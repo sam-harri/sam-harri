@@ -2,4 +2,4 @@
 
 -   :office: **Machine Learning Engineer II** at **SkyWorks Solutions**, and **SWE** blog writer at **Neon Serverless Postgres**
 -   :school: 5th year **CS and Chemical Engineering** at the **University of Ottawa**
--   🦀 **Rust** 🐍 **Python** :#️⃣ **TypeScript**
+-   🦀 **Rust** 🐍 **Python** #️⃣ **TypeScript**
