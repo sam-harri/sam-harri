@@ -2,4 +2,4 @@
 
 -   :office: **SWE** and **Community Manager** at **neon.tech**
 -   :school: **MSc in CS** at the **University of Toronto**, undergrad in **CS** and **Chemical Engineering**  from the **University of Ottawa**
--   🦀 **Rust** 🐍 **Python** #️⃣ **TypeScript**
+-   🐍 **Python** 🦀 **Rust** #️⃣ **TypeScript**
