@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/sam-harri/sam-harri/master/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+MSc @ UofT in Distributed Computing and Storage Systems, undergrad in Chemical Engineering though😭
+Work @ Databricks / Neon Database
+Interests are distributed and high-performance computing, data structures, databases, and storage systems
 
--   :office: **SWE** and **Community Manager** at **neon.tech**
--   :school: **MSc in CS** at the **University of Toronto**, undergrad in **CS** and **Chemical Engineering**  from the **University of Ottawa**
--   🐍 **Python** 🦀 **Rust** #️⃣ **TypeScript**
+Always happy to talk, samharrison at cs.toronto.edu
