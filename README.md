@@ -1,6 +1,6 @@
 MSc @ UofT in distributed computing and storage systems, undergrad in chemical engineering + CS
 
-Work @ Databricks / Neon Database
+Work @ Shopify
 
 Interests are distributed and high-performance computing, data structures, databases, and storage systems
 
